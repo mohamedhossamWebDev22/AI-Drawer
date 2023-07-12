@@ -1,0 +1,10 @@
+colors = ['red',
+          'blue',
+          'green',
+          'orange',
+          'gold',
+          'gray',
+          'black',
+          'cyan',
+          'white',
+]
